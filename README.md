@@ -90,7 +90,7 @@ const newNet = Feedforward.fromConnections(loaded.config, loaded.connections);
 
 A simple feedforward neuronal network.
 
-#### fromConnections(config, connections) -> net [static]
+#### fromConnections(config, connections)[static] -> net
 
 Creates a new network for the config and initializes the connection values.
 
@@ -131,7 +131,7 @@ Creates a new network for the config and initializes the connection values.
 + `model` - Array of layer depths.
 + `spread` - How many networks will be generated.
 + `flexibility` - How fast the net adepts.
-+ `activationThreshold` - Idicates when an output cell identifies as on, aka 1.0 .
++ `activationThreshold` - Indicates when an output cell identifies as on, aka 1.0 .
 
 #### map(inputs) -> outputs
 
