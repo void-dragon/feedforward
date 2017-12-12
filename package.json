@@ -1,0 +1,8 @@
+{
+  "name": "feedforward",
+  "version": "0.1.0",
+  "description": "feedforward network",
+  "main": "index.js",
+  "author": "Arne Simon",
+  "license": "MIT"
+}
