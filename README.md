@@ -4,6 +4,7 @@
 
 A simple layered feedforward network with momentum based backward propergation.
 
+It learns fast and it is easy to train a whole population of networks.
 
 **Please Donate**
 
