@@ -1,6 +1,6 @@
 # feedforward
 
-**author:** Arne *(voidragin)* Simon [arne_simon@gmx.de]
+**author:** Arne *(voidragon)* Simon [arne_simon@gmx.de]
 
 A simple layered feedforward network with momentum based backward propergation.
 
