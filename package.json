@@ -1,8 +1,19 @@
 {
   "name": "feedforward",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "feedforward network",
   "main": "index.js",
-  "author": "Arne Simon",
-  "license": "MIT"
+  "keywords": [
+    "neuron",
+    "neural",
+    "feedforwad",
+    "network",
+    "artificial"
+  ],
+  "author": "void-dragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/void-dragon/feedforward/issues"
+  },
+  "homepage": "https://github.com/void-dragon/feedforward#readme"
 }
